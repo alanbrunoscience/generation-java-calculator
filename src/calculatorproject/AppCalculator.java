@@ -1,4 +1,4 @@
-package calculatorproject.app;
+package calculatorproject;
 
 import java.util.Locale;
 import java.util.Scanner;
