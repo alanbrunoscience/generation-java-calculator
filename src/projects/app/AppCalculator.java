@@ -1,9 +1,9 @@
-package generation.app;
+package projects.app;
 
 import java.util.Locale;
 import java.util.Scanner;
 
-import generation.calculator.Calculator;
+import projects.calculator.Calculator;
 
 public class AppCalculator {
 

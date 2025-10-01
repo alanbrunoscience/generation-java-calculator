@@ -1,4 +1,4 @@
-package generation.calculator;
+package projects.calculator;
 
 public class Calculator {
 
