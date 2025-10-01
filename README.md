@@ -27,7 +27,7 @@
 
 This repository contains a simple **Calculator project** developed in Java.
 
-It was created as the complement project for the Full-Stack Java development course, offered by **[Generation Brazil](https://brazil.generation.org/)**.
+It was created as the complementary project for the Full-Stack Java development course, offered by **[Generation Brazil](https://brazil.generation.org/)**.
 
 The main course curriculum and resources can be found in the repository: **[generation-java-bootcamp](https://github.com/alanbrunoscience/generation-java-bootcamp)**.
 
@@ -96,5 +96,6 @@ Developed by [**Alan Bruno**](https://github.com/alanbrunoscience)®
 
 For questions, suggestions, or collaborations, feel free to reach out via:  
 - 🌐 [GitHub Issues](../../issues)
+
 
 <br />
