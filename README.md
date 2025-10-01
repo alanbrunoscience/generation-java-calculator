@@ -4,7 +4,7 @@
 
 <br>
 
-<h1 align="center">Java Calculator Project</h1>
+<h1 align="center">Java Calculator Project 🔢 </h1>
 
 <br />
 
@@ -96,3 +96,4 @@ Developed by [**Alan Bruno**](https://github.com/alanbrunoscience)®
 
 For questions, suggestions, or collaborations, feel free to reach out via:  
 - 🌐 [GitHub Issues](../../issues)
+
