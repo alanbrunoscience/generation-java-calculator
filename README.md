@@ -46,6 +46,8 @@ To run the code locally, you will need:
 
 ## 3. How to Run Projects in Eclipse/STS
 
+<br />
+
 ### 3.1. Importing Projects
 
 <br />
@@ -100,4 +102,5 @@ Developed by [**Alan Bruno**](https://github.com/alanbrunoscience)®
 
 For questions, suggestions, or collaborations, feel free to reach out via:  
 - 🌐 [GitHub Issues](../../issues)
+
 
