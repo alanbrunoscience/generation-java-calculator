@@ -2,7 +2,7 @@
   <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java Logo" width="120"/>
 </div>
 
-<br>
+<br />
 
 <h1 align="center">🔢 Java Calculator Project</h1>
 
@@ -34,6 +34,8 @@ The main course curriculum and resources can be found in the repository: **[gene
 <br />
 
 ## 2. Requirements
+
+<br />
 
 To run the code locally, you will need:
 
@@ -79,6 +81,8 @@ git clone git@github.com:alanbrunoscience/generation-java-calculator.git
 
 ## 4. Contributions
 
+<br />
+
 This repository is part of an educational project; however, contributions are always welcome.  
 If you have suggestions, corrections, or improvements, feel free to:
 
@@ -92,9 +96,9 @@ If you have suggestions, corrections, or improvements, feel free to:
 
 ## 5. Contact
 
+<br />
+
 Developed by [**Alan Bruno**](https://github.com/alanbrunoscience)®
 
 For questions, suggestions, or collaborations, feel free to reach out via:  
 - 🌐 [GitHub Issues](../../issues)
-
-
